@@ -1,6 +1,10 @@
 primeira fez nesse site
+
 estava tentando aprender a criar um site basico e falhie mizeravelmente
+
 esse era o codigo veja se tem algo de errado com ele e me esplique oque fiz de errado.
+
+
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -20,4 +24,7 @@ esse era o codigo veja se tem algo de errado com ele e me esplique oque fiz de e
 </body>
 </html>
 
-Quando abro ele no site chorome não aparece absolutamente nada
+
+Quando aberto ele no site chorome não aparece absolutamente nada
+
+
